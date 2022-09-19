@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Textier/static/css/main.2784506f.css",
-    "main.js": "/Textier/static/js/main.b9202b90.js",
+    "main.css": "/Textier/static/css/main.cbb0e1a4.css",
+    "main.js": "/Textier/static/js/main.b1384c55.js",
     "static/js/787.719ec76d.chunk.js": "/Textier/static/js/787.719ec76d.chunk.js",
     "index.html": "/Textier/index.html",
-    "main.2784506f.css.map": "/Textier/static/css/main.2784506f.css.map",
-    "main.b9202b90.js.map": "/Textier/static/js/main.b9202b90.js.map",
+    "main.cbb0e1a4.css.map": "/Textier/static/css/main.cbb0e1a4.css.map",
+    "main.b1384c55.js.map": "/Textier/static/js/main.b1384c55.js.map",
     "787.719ec76d.chunk.js.map": "/Textier/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2784506f.css",
-    "static/js/main.b9202b90.js"
+    "static/css/main.cbb0e1a4.css",
+    "static/js/main.b1384c55.js"
   ]
 }
